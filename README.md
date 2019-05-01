@@ -6,7 +6,5 @@
     <br>
 </p>
 
-run - docker-compose up <>
-backend - localhost:3040 <>
-frontend - localhost:3050
+docker-compose up
 
